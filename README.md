@@ -4,7 +4,7 @@ This simple todo list application is developed using React, Bootstrap and TypeSc
 
 This example is published on the following site. You can check:
 
-Explore the live demo: https://
+Explore the live demo: https://todo-react-bootstrap-51681.netlify.app
 
 ## Tech Stack
 
