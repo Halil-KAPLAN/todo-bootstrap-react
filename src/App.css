@@ -1,0 +1,46 @@
+header {
+  background-color: cornflowerblue;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.createTaskForm {
+  display: flex;
+  justify-content: center;
+}
+
+.createTaskForm form {
+  width: 400px;
+  border: 2px solid cornflowerblue;
+  border-radius: 15px;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.createTaskForm form input {
+  margin-bottom: 5px;
+}
+
+.createTaskForm form button {
+  width: 100px;
+}
+
+.contentDiv {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid lightblue;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: cornflowerblue;
+  color: white;
+  text-align: center;
+  padding-top: 1rem;
+}
