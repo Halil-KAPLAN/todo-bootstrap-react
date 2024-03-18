@@ -2,8 +2,6 @@
 
 This simple todo list application is developed using React, Bootstrap and TypeScript. Users can add or delete tasks to do.
 
-This example is published on the following site. You can check:
-
 Explore the live demo: https://todo-react-bootstrap-51681.netlify.app
 
 ## Tech Stack
